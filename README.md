@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 - [Project Overview](Project-Overview)
-- [Data base](Data-Base)
+- [Data base MySQL](Data-Base-MySQL)
 - [Data Analysis](Data-Analysis)
 - [Recommendation](Recommendation)
 
@@ -14,7 +14,7 @@ In this project, you'll be using SQL and MySQL Workbench as your tool to analyze
 Remember, the goal of this project is to use your SQL skills to extract meaningful insights from the data. Your findings could potentially influence the future development of one of the world's most popular social media platforms.
 |Instagram User Analytics PPT|
 
-!(Instagram User Analytics)[Instagram-User-Analytics.PPT](https://github.com/MadisettySurekha/Instagram-User-Analytics/new/main?filename=README.md)
+!(Instagram User Analytics)[Instagram-User-Analytics.PPT](https://github.com/Harikrishna459/Instagram-User-Analytics/edit/main/README.md)
 
 ## Database
 - Firstly,We need to install SQL Workbench 8.0 CE.
@@ -31,8 +31,7 @@ Remember, the goal of this project is to use your SQL skills to extract meaningf
 
 ## Recommendation - Results/Findings
 - By Using Users table and Username column we can get the five oldest users.
-- Here we need to perform left join on posts and users tables.
-- Winner of the contest is based on posts table and that particular users table and then we need to done left join and groupby posts.id
+
   
 😄
 💻
